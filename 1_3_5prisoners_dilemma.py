@@ -479,6 +479,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
     ######
+    #sam
     ######
     #
     elif player == 15:
